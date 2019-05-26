@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wangqingming123/wangqingming123.github.io.git
+  repo: https://github.com/wangqingming123/wangqingming123.github.io
   branch: master
